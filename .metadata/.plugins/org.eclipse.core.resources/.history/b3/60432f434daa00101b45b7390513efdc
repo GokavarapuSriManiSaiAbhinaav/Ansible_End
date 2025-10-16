@@ -1,0 +1,3 @@
+spring.application.name=exambackend
+server.port=2000
+
